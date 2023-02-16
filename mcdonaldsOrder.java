@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class mcdonaldsOrder {
     public static void main(String[] args) {
 
-        // variables to hold price of McDonald's items
+        // variables to hold price of McDonald's item
         double McChicken = 2;
         double fries = 1;
         double Coke = 2;
