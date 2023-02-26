@@ -12,7 +12,7 @@ public class McDonaldOrder {
                 foodQuantity = Integer.parseInt(keyboard.nextLine());
 
             } catch (Exception e) {
-                System.out.println("Enter a positive number.");
+                System.out.println("Enter a positive number");
                 break;
             }
         }
